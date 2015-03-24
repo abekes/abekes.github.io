@@ -281,11 +281,11 @@ a:focus {
 
 @media(min-width:767px) {
     .content-section {
-        padding-top: 250px;
+        padding-top: 100px;
     }
 
     .download-section {
-        padding: 100px 0;
+        padding: 120px 0;
     }
 
     #map {
@@ -341,7 +341,7 @@ ul.banner-social-buttons {
 }
 
 footer {
-    padding: 50px 0;
+    padding: 65px 0;
 }
 
 footer p {
